@@ -2,7 +2,7 @@
   import { fade } from "svelte/transition";
   const buttons = [1, 2, 3, 4, 5, 6, 7, 8, 9, "𐄂", 0, "✓"];
   let userInput = "";
-  let code = "7654";
+  let code = "8764";
 
   let error = false;
   let solved = false;
